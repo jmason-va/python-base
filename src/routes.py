@@ -1,0 +1,4 @@
+ROUTES = [
+    ('/', MainPage),
+    ('/sign', Guestbook)
+]
