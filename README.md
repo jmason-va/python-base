@@ -1,11 +1,7 @@
-# Guestbook
+# basic python project
 
-Guestbook is an example application showing basic usage of Google App
-Engine. Users can read & write text messages and optionally log-in with
-their Google account. Messages are stored in App Engine (NoSQL)
-High Replication Datastore (HRD) and retrieved using a strongly consistent
-(ancestor) query.
-
+# useful links
+   
 ## Products
 - [App Engine][1]
 
