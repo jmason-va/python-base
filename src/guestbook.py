@@ -24,6 +24,8 @@ from google.appengine.ext import ndb
 import jinja2
 import webapp2
 
+# from routes import ROUTES
+
 JINJA_ENVIRONMENT = jinja2.Environment(
     loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
     extensions=['jinja2.ext.autoescape'],
